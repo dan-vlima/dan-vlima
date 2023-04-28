@@ -21,7 +21,7 @@
 
 ### :man_technologist: About me:
   
-I'm Dailson, also known as Dan, passionate brazilian Full Stack and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. 
+I'm Dailson, also known as Dan, a passionate brazilian Full Stack and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. 
  
   - 🔭 I’m currently working full-time on both frontend, backend and mobile projects at [![80Lines Badge](https://img.shields.io/badge/80Lines-purple)](https://www.80lines.com/), a software development company.
   - 🚀 I also work as CTO and Tech Lead at [![Brasil Cursinhos Badge](https://img.shields.io/badge/Brasil-Cursinhos-lightblue)]([https://www.80lines.com/](https://brasilcursinhos.org/)), a software development company.
