@@ -1,4 +1,4 @@
-<!---<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="300"/>
 </div> -->
 <div align="center">
@@ -49,7 +49,7 @@ I'm Dailson, also known as Dan, a passionate brazilian Full Stack and Mobile Dev
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats:
+<!-- ### :fire: My Stats:
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dan-vlima&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvo-palma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvo-palma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
