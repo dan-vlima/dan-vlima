@@ -29,6 +29,7 @@ I'm Dailson, also known as Dan, a passionate brazilian Full Stack and Mobile Dev
   - 🤔 Always applying my knowledge about Clean Code, SOLID, DRY, REST, Git Flow, Atomic Commit and Semantic Commit in my development routine.
   - 📫 How to reach me and know more about my projects: [![Gmail Badge](https://img.shields.io/badge/-danlima.tech%40gmail.com-red)](danlima.tech@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dan-vlima/)
   - 😄 Pronouns: He/Him.
+  - ⏱ My portfolio is currently under development to showcase my most recent skills.
 </div>
   
  ---
