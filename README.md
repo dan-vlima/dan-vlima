@@ -23,13 +23,13 @@
   
 I'm Dailson, also known as Dan, a passionate brazilian Full Stack and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. 
  
-  - 🔭 I’m currently working full-time on both frontend, backend and mobile projects at [![80Lines Badge](https://img.shields.io/badge/80Lines-purple)](https://www.80lines.com/), a software development company.
+  - 🔭 I’m currently working full-time on both front end and back end projects at Kultua, a peopletech company.
   - 🚀 I also work as CTO and Tech Lead at [![Brasil Cursinhos Badge](https://img.shields.io/badge/Brasil-Cursinhos-lightblue)]([https://www.80lines.com/](https://brasilcursinhos.org/)), a software development company.
   - 🌱 Learning about AWS and GCP.
   - 🤔 Always applying my knowledge about Clean Code, SOLID, DRY, REST, Git Flow, Atomic Commit and Semantic Commit in my development routine.
   - 📫 How to reach me and know more about my projects: [![Gmail Badge](https://img.shields.io/badge/-danlima.tech%40gmail.com-red)](danlima.tech@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dan-vlima/)
   - 😄 Pronouns: He/Him.
-  - ⏱ My portfolio is currently under development to showcase my most recent skills.
+  - ⏱ My portfolio is currently under development in order to showcase my most recent skills.
 </div>
   
  ---
